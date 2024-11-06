@@ -1,0 +1,4 @@
+cookies = {
+    'fantacalcio.it': 'BiWtPIWDr44kua9ClkqCbCa4Co99jgjtflTZFl3bWSeMrf44F7R1Z%2BMtaz8ZL2usZJoQVzB2hEVccQ0Ubz7ROC7w4e5sZ3KRFXhE1wsiWK3j0OMxlLoHtF9e%2B%2B7jbYo%2BxiXqUgbumeNnd%2FQuP6SItMpSHhB%2Fn7ZEUK87Xi1KIERT5Xi4SrMdOAS8Pfmh3FLZzbwU2xocqzldvgwNf%2F8TbmuoKVg7GUFS7fn4Uc3WDh3QEPwQAp2A94xkHpKMhaB8BYG6hs3TXVGjQX%2F80CQ5OZdeudg1KnhXu%2BdYl%2FL%2FEVDIyXnlRy1tC90jWlvrpyput7lx0DuM%2FvMlfKLWRrt0n4YzKjvSG2N0QtNTGxgn5LZbBvds3c2%2FxcFntP2vZE0Tfr5iI71MA8exABlyqlcejxElHB27DiIYSMeLG64DjqRUQqD2Ao%2FtIb9clRPR5%2FbOhXRthXjItZUk4JgIDQ5y0dj54czPXsIM',
+    'client.fantacalcio.it': 'roberto.luppu%40gmail.com'
+}
